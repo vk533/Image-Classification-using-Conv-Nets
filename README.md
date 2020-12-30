@@ -1,2 +1,3 @@
 # Image-Classification-using-Conv-Nets
-Convolutional Neural Networks
+## Dense Neural Net vs Convolutional Neural Net
+![DNN VS CNN]()
