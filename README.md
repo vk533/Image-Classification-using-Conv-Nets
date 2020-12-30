@@ -12,3 +12,4 @@ A Convolutional Neural Network arranges its perceptrons in three dimensions as v
 ![Image](ImagesCNN/Picture1.png)
 ### Convolutional Kernel
 
+![Image](ImagesCNN/Picture2.gif)
