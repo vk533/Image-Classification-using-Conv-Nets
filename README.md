@@ -9,3 +9,6 @@ A Convolutional Neural Network arranges its perceptrons in three dimensions as v
 - POOL : Dimension reduction 
 - FC : Fully connection layer
 
+![Image](ImagesCNN/Picture1.png)
+### Convolutional Kernel
+
