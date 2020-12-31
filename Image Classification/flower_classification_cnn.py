@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 14 04:08:32 2018
-
-
-"""
-
 import os
 from PIL import Image
 from PIL import ImageFilter
