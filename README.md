@@ -26,3 +26,14 @@ The rectified linear activation function or ReLU for short is a piecewise linear
 
 
 ### 1.3. Pooling
+![Image](ImagesCNN/Picture5.png)
+
+![Image](ImagesCNN/Picture6.png)
+
+### 1.4. Image Classification
+In this project we will perform the image classification by training the ConvNet with MNIST dataset as shown below. This particular dataset has a training set of 60,000 examples and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size normalized andd centered in a fixed size image.
+![Image](ImagesCNN/Picture7.jpg)
+
+### LeNet-5(Largest Convolutional Network) for MNIST
+
+![Image](ImagesCNN/Picture8.jpg)
